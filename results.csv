@@ -1,0 +1,10 @@
+model,weighted_f1
+Naive Bayes (replication),87.2
+MLP (replication),88.5
+XGBoost (replication),83.7
+c-TF-IDF + SVM,55.5
+c-TF-IDF + FastKAN,65.3
+Potion + SVM,85.7
+Potion + FastKAN,82.7
+Model2Vec + SVM,84.04028774985875
+Model2Vec + FastKAN,82.93405978571788
